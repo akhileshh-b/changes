@@ -1,8 +1,8 @@
-# Git-For-Geeks-Python-Projects-REPO-2022
+# Git-For-Geeks-Python-Projects-REPO-2023
 
-![gfg-banner.png](https://user-images.githubusercontent.com/90423812/195241228-23e70dec-a9d8-4dd6-bd84-a1b21eae2cb5.png)
+![gfg-banner.png](https://user-images.githubusercontent.com/113467810/273968163-e20c6aac-6dc1-4be8-9709-d805b14b750f.png)
 
-# **Git For Geeks - 2022**
+# **Git For Geeks - 2023**
 
 # **Python Projects**
 
