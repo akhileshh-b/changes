@@ -8,7 +8,7 @@
   <img src="https://lh5.googleusercontent.com/zxD2dwSzczmTFkMESB4kgZjiamaEABU-qaJtkIS8urR6TMiBaysMXORFRsBWGwzc960=w2400" width="250" title="hover text">
 </p>
 
-# **Welcome to Git-For-Geeks!** :sparkles:
+# **Welcome to Git-For-Geeks 2.0!** :sparkles:
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  ![WhatsApp Video 2022-10-19 at 12 06 33](https://user-images.githubusercontent.com/77586492/196615080-cf2bc190-76ae-4ca0-ad76-d3b9c45637cd.gif)
