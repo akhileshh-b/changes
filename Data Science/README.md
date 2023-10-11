@@ -1,4 +1,4 @@
-# Welcome to Git-For-Geeks!
+# Welcome to Git-For-Geeks 2.0!
 
 Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks Chapter of Shri Ramdeobaba College of Engineering and Management, Nagpur.
 
