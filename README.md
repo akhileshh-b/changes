@@ -1,6 +1,7 @@
 # Javascript-mini-projects
 
-# Welcome to Git-For-Geeks!
+# Welcome to Git-For-Geeks 2.0!
+
 ![image](https://user-images.githubusercontent.com/113467810/273968163-e20c6aac-6dc1-4be8-9709-d805b14b750f.png)
 Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks Chapter of **Shri Ramdeobaba College of Engineering and Management, Nagpur**.
 
